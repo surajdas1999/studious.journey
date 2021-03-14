@@ -1,6 +1,8 @@
 /*
 There are total 9 data types
+
     Primitive data type->
+
     ->Number
     ->String
     ->Null
@@ -8,9 +10,13 @@ There are total 9 data types
     ->Symbol
     ->Boolean
     ->BigInt
+
+
     Non primitive data type->
+
     ->Function
     ->Object
+
 */
 
 // To check the type of variable
